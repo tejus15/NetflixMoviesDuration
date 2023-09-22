@@ -1,1 +1,2 @@
-This is thye main branch
+# Main Branch
+This is the main branch
