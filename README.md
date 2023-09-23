@@ -1,2 +1,2 @@
-# Main Branch
-This is the main branch
+# Netflix Movie Duration Branch
+Analyzing and visualizing the duration of movies on Netflix over the years.
